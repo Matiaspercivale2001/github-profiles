@@ -1,5 +1,5 @@
 https://github.com/Matiaspercivale2001
-# ¡Hola chicos, soy Matías!😃
+# ¡Hi guys, I'm Matias!😃
 
 I'm 21 years old. I have two older brothers than me. I live with my parents and my pets.
 Currently, I am trying to improve my skills within new technologies.
@@ -23,13 +23,13 @@ I consider myself a strong-willed and well-balanced person. I am interested in e
 | clear   | terminal clear|
 | mkdir   | new folder    |
 
-**Estos son mis 2 alias mas usados**
+**Here are the two more used alias**
 
 ```bash
 alias.npmd=npm run dev
 alias.npms=npm start
 ```
 
-**A continuación te dejo el link de mi perfil de Github**
+**That was everything. I hope it would be fine😃😃**
 
-https://github.com/Matiaspercivale2001 😃😃
+*My github link:* https://github.com/Matiaspercivale2001
