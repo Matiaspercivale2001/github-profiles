@@ -23,7 +23,7 @@ I consider myself a strong-willed and well-balanced person. I am interested in e
 | clear   | terminal clear|
 | mkdir   | new folder    |
 
-**Here are the two more used alias**😃
+**Here are the two more used alias**
 
 ```bash
 alias.npmd=npm run dev
@@ -34,4 +34,4 @@ alias.npms=npm start
 
 *My github link:* https://github.com/Matiaspercivale2001
 
-**See you soon!**
+😃**See you soon!**😃
